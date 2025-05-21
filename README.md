@@ -44,8 +44,6 @@ Python 3.x.
 Bibliotecas: tkinter (incluso no Python), pyaudio, vosk e numpy.
 O modelo Vosk para português (vosk-model-small-pt-0.3), disponível em https://alphacephei.com/vosk/models.
 Instale as dependências com:
-![Uploading image.png…]()
-
 
 ```
 pip install pyaudio vosk numpy
